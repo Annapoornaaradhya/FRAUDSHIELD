@@ -15,3 +15,6 @@ The performance of the model is evaluated using the accuracy metric, which is th
 
 **Streamlit Application** <br />
 We use Streamlit to create a user interface for the credit card fraud detection project. The Streamlit application allows the user to upload a CSV file containing credit card transaction data, and the uploaded data is used to train the logistic regression model. The user can also input transaction features and get a prediction on whether the transaction is legitimate or fraudulent.
+
+![Alt text](FRAUDSHIELD.png?raw=true "Title")
+
