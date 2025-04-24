@@ -1,4 +1,8 @@
 # FRAUDSHIELD
+
+[![DOI](https://zenodo.org/badge/831427731.svg)](https://doi.org/10.5281/zenodo.15275422)
+
+
 Credit card fraud is a major concern for both consumers and financial institutions. Fraudulent transactions can lead to financial losses and damage to the reputation of financial institutions. Machine learning techniques have been used extensively to detect fraudulent transactions. In this project, we use logistic regression to classify transactions as either legitimate or fraudulent based on their features.
 
 **Data** <br />
